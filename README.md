@@ -1,1 +1,1 @@
-# jjtech-ec2-automation
+# cloudformation
